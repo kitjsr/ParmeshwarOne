@@ -3,8 +3,8 @@
     padding:30px 0;
 }
 .menuarea{
-    background:#fff;
-    padding:0 0;
+    background:#fff url('back.png') no-repeat center center;
+    padding:200px 0;
 }
 .slidearea{
     background:#fff;
@@ -20,9 +20,34 @@
 }
 .sharearea{
     background:#fff;
-    padding:20px 0;
+    padding:10px 0;
 }
 .footerarea{
     background:#fff;
     padding:30px 0;
+}
+.xarea{
+    background:#FFF3E3;
+    padding:20px 0;
+}
+.yarea{
+    background:#F4F5F7;
+}
+.xyz a:link,.xyz a:visited{
+    border:solid 2px #B88E2F;
+    padding:10px 25px;
+    color:#B88E2F;
+}
+.xyz a:hover{
+    background:#B88E2F;
+    color:white;
+}
+.abc a:link,.abc a:visited{
+    border:solid 2px #B88E2F;
+    padding:10px 25px;
+    color:#B88E2F;
+}
+.abc a:hover{
+    background:#B88E2F;
+    color:white;
 }
